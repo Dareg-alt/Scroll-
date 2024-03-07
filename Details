@@ -1,0 +1,6 @@
+High EVM Compatibility: Scroll boasts seamless compatibility with Ethereum at the bytecode level. This means existing Ethereum smart contracts and developer tools can be used on Scroll "out of the box" without needing modifications.
+
+Scalability: Scroll utilizes zk-Rollup technology, which bundles many transactions off-chain and generates a validity proof for the Ethereum mainnet. This significantly reduces gas fees and speeds up transaction processing times.
+Security: Scroll leverages the security of the Ethereum blockchain. Since the validity proofs are cryptographically verifiable, users can be confident that transactions on Scroll are accurate.
+Credible Neutrality: The Scroll team prioritizes a neutral and unbiased network, reducing the potential for power imbalances within the ecosystem.
+Active Development: Scroll is under active development by a team with a strong focus on technical rigor and innovation.
